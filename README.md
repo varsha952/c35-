@@ -1,2 +1,2 @@
-# c35-
-smartball sync ball
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
